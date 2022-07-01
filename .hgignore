@@ -1,0 +1,19 @@
+syntax: glob
+nbproject/project.xml
+nbproject/project.properties
+nbproject/private/private.properties
+nbproject/genfiles.properties
+nbproject/build-impl.xml
+lib/log4j-1.2.16.jar
+lib/json_simple-1.1.jar
+lib/httpmime-4.2.5.jar
+lib/httpcore-4.2.4.jar
+lib/httpclient-cache-4.2.5.jar
+lib/httpclient-4.2.5.jar
+lib/fluent-hc-4.2.5.jar
+lib/commons-logging-1.1.1.jar
+lib/commons-codec-1.6.jar
+build.xml
+build
+nbproject
+dist/
